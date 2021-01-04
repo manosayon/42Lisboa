@@ -1,0 +1,5 @@
+Credentials cache: API:4904B4E2-F70D-4F14-9F1A-03A36937108F
+        Principal: dpinto@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  4 15:03:38 2021  Jan  5 01:03:38 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
